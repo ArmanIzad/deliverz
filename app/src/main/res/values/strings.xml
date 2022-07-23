@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">deliverz</string>
+    <string name="button_retry">Retry</string>
+    <string name="label_error">Something went wrong. Please try again later.</string>
+    <string name="transition_delivery_image" translatable="false">Delivery Image Transition</string>
+    <string name="delivery_list">Delivery list</string>
+    <string name="delivery_details">Delivery details</string>
+    <string name="delivery_empty">No deliveries found.</string>
 </resources>
