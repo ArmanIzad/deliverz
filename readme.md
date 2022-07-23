@@ -5,7 +5,7 @@ A repo to showcase showing list of items using paging3 library
 ## Instructions
 
 To display maps, make sure you have local.properties with:
-MAPS_API_KEY=<your google maps api key here>
+MAPS_API_KEY=your google maps api key here
 
 ## Some explanations
 
